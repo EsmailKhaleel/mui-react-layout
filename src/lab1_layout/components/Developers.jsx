@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Typography, Button, Grid2 } from "@mui/material";
 import Person from "./Person";
-import PersonalImg from "../assets/personal.jpg";
+import PersonalImg from "../../assets/personal.jpg";
 
 const developers = [
     {

@@ -3,7 +3,7 @@ import { Box, Typography, Button, Grid2 } from "@mui/material";
 import RocketLaunchOutlinedIcon from '@mui/icons-material/RocketLaunchOutlined';
 import AdminPanelSettingsOutlinedIcon from '@mui/icons-material/AdminPanelSettingsOutlined';
 import ManageSearchOutlinedIcon from '@mui/icons-material/ManageSearchOutlined';
-import freeLanceImg from "../assets/freelance-job.png";
+import freeLanceImg from "../../assets/freelance-job.png";
 
 function Freelance() {
     return (

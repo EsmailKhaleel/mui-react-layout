@@ -3,7 +3,7 @@ import { Box, Typography, Button, Grid2 } from "@mui/material";
 import PestControlIcon from "@mui/icons-material/PestControl";
 import EmojiPeopleIcon from "@mui/icons-material/EmojiPeople";
 import SummarizeOutlinedIcon from "@mui/icons-material/SummarizeOutlined";
-import mentorImg from "../assets/mentorship.jpg";
+import mentorImg from "../../assets/mentorship.jpg";
 
 function Mentor() {
     return (

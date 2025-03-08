@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Typography, Button, useMediaQuery } from "@mui/material";
 import { useTheme } from "@mui/material/styles";
-import hero from "../assets/hero.png"; // Ensure correct path
+import hero from "../../assets/hero.png"; // Ensure correct path
 
 const Hero = () => {
     const theme = useTheme();

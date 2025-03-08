@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Typography, Button, Grid2, IconButton } from "@mui/material";
-import Visit from "../assets/visit-arc.svg";
+import Visit from "../../assets/visit-arc.svg";
 import ArrowForwardOutlinedIcon from '@mui/icons-material/ArrowForwardOutlined';
 function Hiring() {
     return (

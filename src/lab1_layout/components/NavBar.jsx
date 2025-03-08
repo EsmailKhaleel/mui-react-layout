@@ -5,7 +5,7 @@ import {
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseRoundedIcon from '@mui/icons-material/CloseRounded';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
-import logo from '../assets/logo.svg';
+import logo from '../../assets/logo.svg';
 
 function NavBar() {
   // Dropdown States
